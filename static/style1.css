@@ -1,0 +1,43 @@
+body {
+    /* background-color: rgb(251, 246, 238); */
+    background-image: radial-gradient(circle 311px at 8.6% 27.9%, rgba(62, 147, 252, 0.57) 12.9%, rgba(239, 183, 192, 0.44) 91.2%);
+    /* background-image: linear-gradient( 89.2deg,  rgba(191,241,236,1) 22.3%, rgba(109,192,236,1) 84.1% ); */
+    /* background-image: radial-gradient( circle 1224px at 10.6% 8.8%,  rgba(255,255,255,1) 0%, rgba(153,202,251,1) 100.2% ); */
+    /* background-image: radial-gradient( circle 827px at 47.3% 48%,  rgba(255,255,255,1) 0%, rgba(138,192,216,1) 90% ); */
+
+}
+
+button {
+    /* padding: 50%; */
+    height: 60px;
+
+
+}
+
+h1 {
+    font-family: cursive;
+    font-style: oblique;
+}
+
+h2 {
+    font-family: cursive;
+    font-style: oblique;
+}
+
+
+
+.main-div {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+a {
+    display: block;
+    width: 100%;
+}
+
+.btn-dark:hover {
+    background-color: #ffffff;
+    /* Darker color on hover */
+    color: #000000;
+}
